@@ -4,3 +4,4 @@ This line should trigger Build 21 of the pipeline.
 Changes made to Configurations. Build 21 should be triggered.
 Will this ever work?
 Last time the server was rebooting. Will it work this time?
+The Github integration plugin was installed. Let's see if it works this time.
