@@ -6,4 +6,7 @@ Will this ever work?
 Last time the server was rebooting. Will it work this time?
 The Github integration plugin was installed. Let's see if it works this time.
 Github repository added. Will it work?
+Normal Jenkins Freestyle Project.
+Still not working...
 Updating on main branch. Will this trigger?
+
